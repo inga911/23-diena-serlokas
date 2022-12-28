@@ -1,18 +1,26 @@
 {
   "name": "23-diena-serlokas",
   "version": "1.0.0",
-  "description": "23 dienos serlokas",
+  "description": "Serlokas 404",
   "main": "index.js",
   "scripts": {
-    "dev": "dead-server --host=localhost --port=3000",
+    "dev": "dead-server --host=localhost --port=3001",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inga911/22-diena-serlokas.git"
   },
   "keywords": [
     "html",
     "css"
   ],
-  "author": "agni",
+  "author": "Inga (https://github.com/inga911)",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inga911/22-diena-serlokas/issues"
+  },
+  "homepage": "https://github.com/inga911/22-diena-serlokas#readme",
   "devDependencies": {
     "dead-server": "^1.0.9"
   }

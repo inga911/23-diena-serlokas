@@ -61,7 +61,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 There is no tests for this project.
 
-## 🎅 Authors  ----> autoriai surasomi
+## 🎅 Authors
 
 Inga: [Github](https://github.com/inga911)
 

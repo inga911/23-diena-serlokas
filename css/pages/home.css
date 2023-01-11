@@ -1,0 +1,13 @@
+@import '../3rd-party/font-awesome.min.css';
+@import '../base/base.css';
+@import '../base/layout.css';
+
+.long {
+    font-size: 30px; 
+    color: #6C6C78; 
+    line-height: 1.2em;
+}
+.short {
+    font-size: 15px; 
+    color: #6C6C78;
+}
